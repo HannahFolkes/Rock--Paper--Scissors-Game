@@ -1,8 +1,8 @@
 <h1>Hannah's SPECIAL ROCK, PAPER, SCISSORS game!</h1>
 <ul> 
-  <li><h3>Completion Date: June 2026</h3></li>
-  <li><h3>Coding Platform: Visual Studio Code App [Android]</h3></li>
-  <li><h3>Programming Language: Python</h3></li>
+  <li>Completion Date: June 2026</li>
+  <li>Coding Platform: Visual Studio Code App [Android]</li>
+  <li>Programming Language: Python</li>
 
 <h2>Project Description</h2>
 <p> Welcome to Hannah's SPECIAL ROCK, PAPER, SCISSORS game.
