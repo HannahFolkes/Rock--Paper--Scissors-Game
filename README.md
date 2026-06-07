@@ -8,6 +8,13 @@ This is a one-player game that provides you with the opportunity to practice you
 Unlike the standard rock, paper, scissors game, Hannah's version includes a fourth option called CAKE. </p>
 
 <h2>FEATURES</h2>
+<ol>
+  <li>Includes the Python random attritube which allows the computer to randomly choose a game choice. </li>
+  <li>Conditional Statements & FUNCTIONS (IF, ELIF, ELSE)</li>
+  <li>Program only accepts CAPTIALIZED CHARACTERS</li>
+  <li>Game Tie Option Available</li>
+  
+</ol>
 <h3>Game Choices</h3>
 <ul>
   <li>ROCK</li>
